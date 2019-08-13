@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "b8d3a1a7-7705-44c4-aaef-9747335e3256",
+    "appType": "app",
+    "appDisplayName": "biobank",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "access_activity",
+      "access_internet"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "biobank"
+      },
+      "ko": {
+        "name": "biobank2"
+      }
+    },
+    "defaultLanguage": "ko-KR"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0"
+  }
+}
