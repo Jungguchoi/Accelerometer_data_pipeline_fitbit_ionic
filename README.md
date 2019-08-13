@@ -1,4 +1,4 @@
-# Accelerometer data pipeline (fitbit ionic device)
+# Accelerometer data collection pipeline (fitbit ionic device)
  
  * These codes form a pipeline that collects tri-axial accelerometer data using a fitbit ionic device.
  
