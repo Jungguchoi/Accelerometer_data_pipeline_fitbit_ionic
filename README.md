@@ -20,3 +20,5 @@ and the visited hospital was constructed to transmit data to the mysql database 
 
 * screenshot of device display 
 ![screenshot_device](./Users/junggu/Desktop/screenshot_device.jpeg)
+
+* Reference : https://dev.fitbit.com/build/guides/application/
