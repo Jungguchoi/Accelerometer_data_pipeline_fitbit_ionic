@@ -12,3 +12,7 @@ and the visited hospital was constructed to transmit data to the mysql database 
  
  
 * However, this app is considered a limitation because it only lasts 5 days when running the app.
+
+* This code is open source, and other comments and questions are open at any time.
+
+*Email: ktf7659@naver.com or ktf7659@ajou.ac.kr
