@@ -15,4 +15,8 @@ and the visited hospital was constructed to transmit data to the mysql database 
 
 * This code is open source, and other comments and questions are open at any time.
 
-*Email: ktf7659@naver.com or ktf7659@ajou.ac.kr
+* Email: ktf7659@naver.com or ktf7659@ajou.ac.kr
+
+
+* screenshot of device display 
+![screenshot_device](./Desktop/screenshot_device.png)
